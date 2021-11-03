@@ -9,13 +9,13 @@ meta:
 project:
   title: "Pacific dogwood"
   type: "Print"
+  logo: "/assets/images/prints/cornus.jpeg"
+  materials: "Strathmore paper, black ink"
 
 images:
   - image:
     url: "/assets/images/prints/cornus.jpeg"
     alt: "Cornus nuttallii print"
-  - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+
 ---
 <p>This is a print of Pacific dogwood.</p>
