@@ -47,10 +47,6 @@
 	padding: 0 0 5rem;
 }
 
-.stickers {
-	padding: 0 0 5rem;
-}
-
 .intro {
 	@media (min-width: $breakpoint-medium) {
 		p {
@@ -325,7 +321,7 @@
 	}
 }
 
-.stickers {
+.sticker {
 	left: 0;
 	position: relative;
 	top: 0;
@@ -372,7 +368,7 @@
 		}
 	}
 
-	.project-meta {
+	.sticker-meta {
 		margin: 3rem 0 0;
 
 		@media (min-width: $breakpoint-medium) {
@@ -522,7 +518,7 @@
 	}
 }
 
-.stickers-navigation {
+.sticker-navigation {
 	background: $color-black;
 	padding: 5rem 0;
 
