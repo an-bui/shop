@@ -13,7 +13,6 @@ project:
   size: "11 x 14 inches"
   materials: "Strathmore paper, Strathmore ink"
   price: "$20"
-  colors: "Black"
   number: "3"
 
 images:

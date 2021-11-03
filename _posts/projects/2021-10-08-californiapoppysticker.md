@@ -13,7 +13,6 @@ project:
   size: "3 inches"
   materials: "Vinyl"
   price: "$2"
-  colors: "black"
   number: "many"
 
 images:

@@ -13,7 +13,6 @@ project:
   size: "8 x 10 inches"
   materials: "Strathmore paper, Strathmore ink"
   price: "$15"
-  colors: "black, gold"
   number: "3 (black), 2 (gold)"
 
 images:
