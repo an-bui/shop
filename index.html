@@ -36,24 +36,6 @@
 				</ul>
 			</div>
 		</section>
-		<section class="stickers">
-			<div class="container">
-				<h2>Stickers</h2>
-				<ul class="stickers-list">
-					{% for item in site.categories.stickers reversed %}
-						<li>
-							<a href="{{ item.url | prepend: site.baseurl }}">
-								<div class="img-wrapper">
-									<img src="{{ item.stickers.logo | prepend: site.baseurl }}" alt="{{ item.stickers.title }}" />
-								</div>
-								<span class="h2">{{ item.stickers.type }}</span>
-								<h3>{{ item.stickers.title }}</h3>
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</section>
 	</main>
 	{% include footer.html %}
 	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
