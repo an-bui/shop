@@ -37,15 +37,15 @@
 			</div>
 		</section>
 		<br>
-  	<section class="stickers">
+		<section class="projects">
 			<div class="container">
 				<h2>Stickers</h2>
-				<ul class="stickers-list">
+				<ul class="projects-list">
 					{% for item in site.categories.stickers reversed %}
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
-									<img src="{{ item.sticker.logo | prepend: site.baseurl }}" alt="{{ item.sticker.title }}" />
+									<img src="{{ item.sticker.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
 								</div>
 								<span class="h2">{{ item.sticker.type }}</span>
 								<h3>{{ item.sticker.title }}</h3>
