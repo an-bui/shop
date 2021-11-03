@@ -22,4 +22,4 @@ images:
     alt: "Cornus nuttallii print"
 
 ---
-<p>This is a print of Pacific dogwood.</p>
+<p>I made this print after the 2018 Yosemite Symbiosis Workshop. A couple friends and I were driving through the park, and saw a bunch of Pacific dogwoods along the road. I'd never seen them before, and I thought they were so beautiful!</p>
