@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Aqua Pineapple"
-  type: "Jekyll"
+  type: "Print 2"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/aquapineapple/logo.png"
   materials: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
