@@ -6,17 +6,12 @@ category: stickers
 meta:
   keywords: "sticker, stickers, Pineapple"
 
-project:
+sticker:
   title: "test test"
   type: "test sticker 5"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/aquapineapple/logo.png"
   materials: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Aqua Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2018"
 
 images:
   - image:
