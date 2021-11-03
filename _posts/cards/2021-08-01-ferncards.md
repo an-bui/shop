@@ -6,7 +6,7 @@ category: cards
 meta:
   keywords: "card, Fern"
 
-project:
+card:
   title: "Ferns of California"
   type: "Card"
   logo: "/assets/images/cards/cards.jpeg"
