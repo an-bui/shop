@@ -9,7 +9,7 @@ meta:
 project:
   title: "California poppy"
   type: "Print"
-  logo: "/assets/images/prints/eschoscholzia_black.jpeg"
+  logo: "/assets/images/prints/eschscholzia_black.jpeg"
   size: "8 x 10 inches"
   materials: "Strathmore paper, Strathmore ink"
   price: "$15"
@@ -18,7 +18,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/prints/eschoscholzia_black.jpeg"
+    url: "/assets/images/prints/eschscholzia_black.jpeg"
     alt: "California poppy print in black"
   - image:
     url: "/assets/images/prints/eschoscholzia_gold.jpeg"
