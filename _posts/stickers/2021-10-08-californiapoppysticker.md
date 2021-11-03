@@ -4,21 +4,18 @@ permalink: /:title/
 category: stickers
 
 meta:
-  keywords: "sticker, California poppy"
+  keywords: "sticker, stickers, California poppy"
 
-project:
+sticker:
   title: "California poppy"
-  type: "Sticker"
+  type: "Vinyl sticker"
   logo: "/assets/images/stickers/IMG_2928.JPG"
-  size: "3 inches"
   materials: "Vinyl"
-  price: "$2"
-  number: "many"
+  price: "$3"
 
 images:
   - image:
     url: "/assets/images/stickers/IMG_2928.JPG"
-    alt: "California poppy sticker in black"
-
+    alt: "first sticker photo"
 ---
-<p>Poppy in sticker form.</p>
+<p>is this working?</p>
