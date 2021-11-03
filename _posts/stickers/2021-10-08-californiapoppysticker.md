@@ -9,13 +9,18 @@ meta:
 sticker:
   title: "California poppy"
   type: "Vinyl sticker"
-  logo: "/assets/images/stickers/IMG_2928.JPG"
+  logo: "/assets/images/stickers/IMG_2985.JPG"
   materials: "Vinyl"
+  size: "3 inches"
   price: "$3"
+  number: "many"
 
 images:
   - image:
-    url: "/assets/images/stickers/IMG_2928.JPG"
+    url: "/assets/images/stickers/IMG_2985.JPG"
+    alt: "black california poppy vinyl sticker"
+  - image:
+    url: "/assets/images/stickers/IMG_2929.JPG"
     alt: "first sticker photo"
 ---
-<p>is this working?</p>
+<p>Poppy in sticker form.</p>

@@ -11,6 +11,9 @@ sticker:
   type: "Vinyl sticker"
   logo: "/assets/images/stickers/IMG_2984.JPG"
   materials: "Vinyl"
+  size: "3 inches"
+  price: "$3"
+  number: "many"
 
 images:
   - image:
