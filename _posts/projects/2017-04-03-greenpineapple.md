@@ -11,7 +11,7 @@ project:
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/greenpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  materials: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Green Pineapple Co"
