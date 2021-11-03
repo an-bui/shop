@@ -55,6 +55,25 @@
 				</ul>
 			</div>
 		</section>
+		<br>
+		<section class="projects">
+			<div class="container">
+				<h2>Cards</h2>
+				<ul class="projects-list">
+					{% for item in site.categories.cards reversed %}
+						<li>
+							<a href="{{ item.url | prepend: site.baseurl }}">
+								<div class="img-wrapper">
+									<img src="{{ item.card.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								</div>
+								<span class="h2">{{ item.card.type }}</span>
+								<h3>{{ item.card.title }}</h3>
+							</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</section>
 	</main>
 	{% include footer.html %}
 	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>

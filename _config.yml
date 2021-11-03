@@ -15,4 +15,4 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
-categories: projects, stickers
+categories: projects, stickers, cards
