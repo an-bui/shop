@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: sticker
 permalink: /:title/
-category: projects
+category: stickers
 
 meta:
   keywords: "sticker, California poppy"
