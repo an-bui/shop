@@ -7,7 +7,7 @@ meta:
   keywords: "sticker, stickers, poison oak"
 
 sticker:
-  title: "Poison oak sticker"
+  title: "Poison oak"
   type: "Vinyl sticker"
   logo: "/assets/images/stickers/IMG_2984.JPG"
   materials: "Vinyl"
