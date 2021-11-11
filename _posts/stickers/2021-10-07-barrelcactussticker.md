@@ -9,7 +9,7 @@ meta:
 sticker:
   title: "Barrel cactus"
   type: "Vinyl sticker"
-  logo: "/assets/images/stickers/IMG_2983.JPG"
+  logo: "/assets/images/stickers/barrelcactus_full.JPG"
   materials: "Vinyl"
   size: "3 inches"
   price: "$3"
@@ -17,10 +17,10 @@ sticker:
 
 images:
   - image:
-    url: "/assets/images/stickers/IMG_2983.JPG"
+    url: "/assets/images/stickers/barrelcactus_full3.JPG"
     alt: "black barrel cactus vinyl sticker"
   - image:
-    url: "/assets/images/stickers/IMG_2929.JPG"
+    url: "/assets/images/stickers/barrelcactus_partial.JPG"
     alt: "first sticker photo"
 ---
-<p>Ferocactus cylindraceus.</p>
+<p>Almost as charming as a real Ferocactus.</p>
