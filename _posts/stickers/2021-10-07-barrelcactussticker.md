@@ -17,7 +17,7 @@ sticker:
 
 images:
   - image:
-    url: "/assets/images/stickers/barrelcactus_full3.JPG"
+    url: "/assets/images/stickers/barrelcactus_full.JPG"
     alt: "black barrel cactus vinyl sticker"
   - image:
     url: "/assets/images/stickers/barrelcactus_partial.JPG"
