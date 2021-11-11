@@ -9,7 +9,7 @@ meta:
 sticker:
   title: "California poppy"
   type: "Vinyl sticker"
-  logo: "/assets/images/stickers/IMG_2985.JPG"
+  logo: "/assets/images/stickers/capoppy_full.JPG"
   materials: "Vinyl"
   size: "3 inches"
   price: "$3"
@@ -17,10 +17,10 @@ sticker:
 
 images:
   - image:
-    url: "/assets/images/stickers/IMG_2985.JPG"
+    url: "/assets/images/stickers/capoppy_full.JPG"
     alt: "black california poppy vinyl sticker"
   - image:
-    url: "/assets/images/stickers/IMG_2929.JPG"
+    url: "/assets/images/stickers/capoppy_partial.JPG"
     alt: "first sticker photo"
 ---
-<p>Poppy in sticker form.</p>
+<p>Eschscholzia californica vinyl sticker. Show your love for charismatic weeds. Also in <a href = "https://an-bui.github.io/shop/californiapoppy/">print form</a>.</p>
