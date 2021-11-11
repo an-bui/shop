@@ -23,4 +23,4 @@ images:
     url: "/assets/images/stickers/capoppy_partial.JPG"
     alt: "first sticker photo"
 ---
-<p>Eschscholzia californica vinyl sticker. Show your love for charismatic weeds. Also in <a href = "https://an-bui.github.io/shop/californiapoppy/">print form</a>.</p>
+<p>Eschscholzia californica vinyl sticker. Show your love for charismatic weeds. Also in <a href = "https://an-bui.github.io/shop/californiapoppy/" style="color:#346575;>print form</a>.</p>
