@@ -9,7 +9,7 @@ meta:
 project:
   title: "Barrel cactus"
   type: "Print"
-  logo: "/assets/images/prints/ferocactus-full-01.JPG"
+  logo: "/assets/images/prints/ferocactus-full.JPG"
   size: "8 x 10 inches"
   materials: "Strathmore 300 series printmaking paper, Speedball professional relief ink"
   price: "$20"
