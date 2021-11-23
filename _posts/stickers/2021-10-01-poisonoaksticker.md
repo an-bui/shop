@@ -23,4 +23,4 @@ images:
     url: "/assets/images/stickers/poisonoak_partial.JPG"
     alt: "second sticker photo"
 ---
-<p>Won't make you itchy, promise.</p>
+<p>Won't make you itchy, promise. Also in <a href = "https://an-bui.github.io/shop/poisonoak/" style = "color:#346575;">print form</a> and <a href = "https://an-bui.github.io/shop/poisonoakcard/" style = "color:#346575;">card form</a>.</p>
