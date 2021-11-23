@@ -17,7 +17,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/prints/ferocactus-full-01.JPG"
+    url: "/assets/images/prints/ferocactus-full.JPG"
     alt: "Block print of barrel cactus on white paper in black ink."
   - image:
     url: "/assets/images/prints/ferocactus-shadows.JPG"
