@@ -12,7 +12,7 @@ project:
   logo: "/assets/images/prints/todi-print-full.JPG"
   size: "5 x 7 inches"
   materials: "Strathmore 300 series printmaking paper, Hero Arts ink"
-  price: "$10"
+  price: "$15"
   number: "made to order"
 
 images:
