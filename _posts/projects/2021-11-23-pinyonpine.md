@@ -24,4 +24,4 @@ images:
     alt: "Detailed view of block print of pinyon pine in black ink on white paper."
     
 ---
-<p>Pinus monophylla (single-leaf pinyon). My heart pines for pinyons. Emotionally accompanies the <a href = "https://an-bui.github.io/shop/juniper/" style = "color:#346575;">juniper print/a>.</p>
+<p>Pinus monophylla (single-leaf pinyon). My heart pines for pinyons. Emotionally accompanies the <a href = "https://an-bui.github.io/shop/juniper/" style = "color:#346575;">juniper print</a>.</p>
