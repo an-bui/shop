@@ -23,4 +23,4 @@ images:
     url: "/assets/images/stickers/barrelcactus_partial.JPG"
     alt: "first sticker photo"
 ---
-<p>Almost as charming as a real Ferocactus.</p>
+<p>Almost as charming as a real Ferocactus. Also in <a href = "https://an-bui.github.io/shop/barrelcactus/" style = "color:#346575;">print form</a>.</p>
