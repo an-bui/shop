@@ -10,7 +10,7 @@ project:
   title: "Chocolate lily"
   type: "Print"
   logo: "/assets/images/prints/fritillaria-full.JPG"
-  size: "8 x 10 inches"
+  size: "11 x 14 inches"
   materials: "Strathmore 300 series printmaking paper, Speedball professional relief ink"
   price: "$20"
   number: "7 or made to order"
